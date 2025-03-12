@@ -9,10 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/192398548?s=400&u=f771259a88b3694193a50cef4229f05a691a4d13&v=4"  />
-
-###
-
+<img display="flex" align="right" height="150" src="https://avatars.githubusercontent.com/u/192398548?s=400&u=f771259a88b3694193a50cef4229f05a691a4d13&v=4"  />
 <img src="https://raw.githubusercontent.com/Kotesei/Kotesei/output/snake.svg" alt="Snake animation" />
 
 ###
